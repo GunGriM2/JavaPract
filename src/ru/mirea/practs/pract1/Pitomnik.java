@@ -1,4 +1,6 @@
-package ru.mirea.pract1;
+package ru.mirea.practs.pract1;
+import ru.mirea.practs.pract1.Dog;
+
 import java.lang.*;
 
 public class Pitomnik {

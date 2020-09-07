@@ -1,4 +1,4 @@
-package ru.mirea.pract1;
+package ru.mirea.practs.pract1;
 import java.lang.*;
 
 public class Dog {
